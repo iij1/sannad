@@ -22,7 +22,7 @@ Follow these steps to set up the project on your local machine:
 
 1. **Clone the Repository** (or download manually):
    ```bash
-   git clone [https://github.com/iij1/sanaad-pro-analytics.git](https://github.com/iij1/sannad.git)
+   git clone https://github.com/iij1/sannad.git
    cd sannad
 
 2. Set Up a Virtual Environment (optional but recommended):
