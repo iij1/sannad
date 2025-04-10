@@ -1,8 +1,8 @@
-# Sanaad Pro Analytics
+# Sanaad Analytics
 
 ## Overview
 
-**Sanaad Pro Analytics** is an intelligent, integrated system designed to enhance athletic performance while prioritizing injury prevention. Leveraging artificial intelligence, Sanaad analyzes athletes' movements, delivering personalized recommendations to boost performance and reduce injury risks. It also supports the development of smart training programs to improve skills and tracks progress during rehabilitation post-injury.
+**Sanaad Analytics** is an intelligent, integrated system designed to enhance athletic performance while prioritizing injury prevention. Leveraging artificial intelligence, Sanaad analyzes athletes' movements, delivering personalized recommendations to boost performance and reduce injury risks. It also supports the development of smart training programs to improve skills and tracks progress during rehabilitation post-injury.
 
 ## Features
 1. **Injury Risk Analysis**: Evaluates risks based on metrics like fatigue, heart rate, tackles, and hydration.
@@ -11,7 +11,7 @@
 4. **Formal Design**: Clean, professional interface with muted, official colors.
 
 ## Prerequisites
-To run Sanaad Pro Analytics, ensure you have the following:
+To run Sanaad Analytics, ensure you have the following:
 - **Python**: Version 3.8 or higher
 - **Git**: For cloning the repository (optional if downloading manually)
 - **pip**: Python package manager (usually included with Python)
@@ -22,10 +22,8 @@ Follow these steps to set up the project on your local machine:
 
 1. **Clone the Repository** (or download manually):
    ```bash
-   git clone https://github.com/username/sanaad-pro-analytics.git
-   cd sanaad-pro-analytics
-
-Note: Replace username with your GitHub username. If you don’t use Git, download the ZIP file from GitHub and extract it.
+   git clone [https://github.com/iij1/sanaad-pro-analytics.git](https://github.com/iij1/sannad.git)
+   cd sannad
 
 2. Set Up a Virtual Environment (optional but recommended):
 
