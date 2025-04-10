@@ -67,3 +67,6 @@ pip install -r requirements.txt
 
 - Open your web browser and go to: http://localhost:8501.
 - The app will load, displaying the Sanaad Pro Analytics interface.
+
+## Sanaad : 
+https://sanaad.streamlit.app/
