@@ -9,7 +9,7 @@ from datetime import datetime
 
 # Set page config as the first Streamlit command
 st.set_page_config(
-    page_title="Sanaad Pro Analytics",
+    page_title="Sanaad Analytics",
     page_icon="⚽",
     layout="wide",
     initial_sidebar_state="expanded"
@@ -175,7 +175,7 @@ with st.sidebar:
     st.markdown(f'<p style="color: var(--text-secondary);"><i class="fas fa-clock"></i> آخر تحديث: {datetime.now().strftime("%Y-%m-%d %H:%M")}</p>', unsafe_allow_html=True)
 
 # Title
-st.markdown('<h1><i class="fas fa-futbol"></i> منصة سَند المحترفة</h1>', unsafe_allow_html=True)
+st.markdown('<h1><i class="fas fa-futbol"></i> منصة سَند </h1>', unsafe_allow_html=True)
 
 # Enhanced risk analysis with logical scoring
 def analyze_injury_risk(player_data):
@@ -502,6 +502,6 @@ if show_advanced:
 # Footer
 st.markdown("""
     <footer style="text-align: center; padding: 2.5rem; background: var(--secondary-bg); margin-top: 4rem; border-radius: var(--border-radius); box-shadow: var(--shadow);">
-        <p style="color: var(--text-secondary); font-size: 1.1rem;"><i class="fas fa-copyright"></i> سَند برو 2025 | مدعوم من xAI</p>
+        <p style="color: var(--text-secondary); font-size: 1.1rem;"><i class="fas fa-copyright"></i> سَند 2025 | مدعوم من </p>
     </footer>
 """, unsafe_allow_html=True)
